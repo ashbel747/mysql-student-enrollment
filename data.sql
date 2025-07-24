@@ -7,7 +7,7 @@ INSERT INTO students VALUES
 (5, 'Peter Owino', 'peter06@gmail.com', '2001-12-18', 'Computer Science');
 
 /* Insert sample courses */
-INSERT INTO course VALUES
+INSERT INTO courses VALUES
 (101, 'Database Systems', 'CS301', 'Dr. James Kariuki'),
 (102, 'Introduction to Marketing', 'BA110', 'Prof. Grace Muli'),
 (103, 'Web Development', 'CS210', 'Ms. Jane Njeri');
